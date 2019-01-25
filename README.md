@@ -16,3 +16,4 @@ The Demo contains Digital and Analog Clocks to be dispalyed. To form wath IMAGE 
 
 ## Demo
 
+![Demo Image](https://raw.githubusercontent.com/bhopals/analog-clock/master/demo_image.png)
