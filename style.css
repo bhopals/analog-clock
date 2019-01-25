@@ -62,5 +62,14 @@
 #minute,
 #second {
     transform-origin: 300px 300px;
-    transition: transform .5s ease-in-out;
+}
+
+
+#digital-clock {
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    border:5px solid #000000;
+    padding:20px;
+    display: inline;
 }
