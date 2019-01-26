@@ -16,4 +16,4 @@ The Demo contains Digital and Analog Clocks to be dispalyed. To form wath IMAGE 
 
 ## Demo
 
-![Demo Link](https://analog-clocks.herokuapp.com/)
+[Demo Link](https://analog-clocks.herokuapp.com/)
