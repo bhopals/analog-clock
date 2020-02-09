@@ -16,6 +16,5 @@ The Demo contains Digital and Analog Clocks to be dispalyed. To form wath IMAGE 
 
 ## Demo
 
-[Demo Link]
-    (https://analog-clocks.herokuapp.com/) - Heroku
-    (https://dreamy-fermi-de8ea1.netlify.com/) - Netlify
+[Demo Link](https://analog-clocks.herokuapp.com/) - Heroku
+[Demo Link](https://dreamy-fermi-de8ea1.netlify.com/) - Netlify
